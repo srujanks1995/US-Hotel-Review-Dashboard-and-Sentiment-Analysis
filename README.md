@@ -6,6 +6,6 @@ https://public.tableau.com/profile/srujan.k.shivamurthy#!/vizhome/BIProject_1588
 ![](img/2.png)
 ![](img/3.png)
 ![](img/4.png)
-![](img/d1.png)
+
 
 Dataset: https://www.kaggle.com/datafiniti/hotel-reviews/
